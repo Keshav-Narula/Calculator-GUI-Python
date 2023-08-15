@@ -32,7 +32,6 @@ def equals_event():
         clear_event()
         equationLabel.set("Syntax Error")
 
-
 window = Tk() #Create Instance of window
 
 #GUI
@@ -103,6 +102,5 @@ buttonClear.grid(row=6,column=1)
 
 buttonDecimal = Button(window, text=".", command=lambda: add_to_equation_event("."), width = 5, font=14)
 buttonDecimal.grid(row=6,column=2)
-
 
 window.mainloop() #Endpoint, run mainloop
