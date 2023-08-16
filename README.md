@@ -11,16 +11,6 @@ Ensure latest python version is installed
 python simpleCalculatorApp.py
 ```
 
-<style>
-img {
-  alt: image;
-  width: 300px;
-  height: 300px;
-  display: block
-}
-</style>
-
-
 
 <img src="https://github.com/Keshav-Narula/Calculator-GUI-Python/assets/115445686/08fe263f-6b39-4e1e-8593-87526f8d7b79" alt="image" />
 <img src="https://github.com/Keshav-Narula/Calculator-GUI-Python/assets/115445686/a1bb7da1-3ab1-4631-8e4f-2fa7e857915a" alt="image"/>
