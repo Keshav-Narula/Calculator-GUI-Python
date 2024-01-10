@@ -1,12 +1,7 @@
 # Python-Simple-Interactive-GUI-calculator
 
 This app was codeded for the purpose of learning how to use tkinter library to develop python GUIs. 
-
-
-
-## Setup
-
-Ensure latest python version is installed
+//////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 ## Running program
